@@ -1,0 +1,4 @@
+[20:55:46] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[20:55:46] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE geckolib3 3.0.42 {depends minecraft @ [1.16.x]}, ROOT_FORCELOAD_SINGLE geckolib3 3.0.42]
+[20:55:46] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP geckolib3 3.0.42 {depends minecraft @ [1.16.x]}]
+[20:55:46] [INFO] [FabricLoader/Resolution]: Fix: add [], remove [], replace [[geckolib3 3.0.42] -> add:geckolib3 1 ([(-∞,∞)])]
